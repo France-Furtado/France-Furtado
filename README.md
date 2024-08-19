@@ -7,7 +7,7 @@
 
 - 👀 Eu estou interessado em **análise de dados**
 
-- 💬 Pergunte-me sobre **sobre SQL, BigQuery, Data Studio, Excel, Sheets, PowerPoint, Estatística Descritiva**
+- 💬 Pergunte-me sobre **sobre SQL, BigQuery, Data Studio, Excel, Sheets, Power Point, Power BI, Estatística Descritiva**
 
 - 📫 Como me encontrar **https://www.linkedin.com/in/france-furtado**
 
